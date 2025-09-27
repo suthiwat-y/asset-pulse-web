@@ -1,0 +1,17 @@
+Generate a business requirement document for an app for optimizing IT SaaS license procurement for SCBX group, containing 10 subsidiaries that have fragmented procurement process.
+
+Persona
+-Group CTO / purchasing
+-Each subsidiary CTO 
+-HR manager supporting new joiner onboarding 
+-New department manager
+
+Main functionalities 
+-[Group CTO / purchasing] Map purchasing of SaaS license across group to identify opportunities for purchasing consolidation (using business function map or LLM similarity of SaaS features).
+-[Group CTO / purchasing / Subsidiary CTO] Identify from AD SSO login of underutilized license / seat 
+-[HR manager] identify from new JD what SaaS license to be allocated to user and automate email to owner to setup
+
+-New department manager - to establish new department or new function, quickly identfiy what app a user will have to use and where the app is previously purchased for consolidation opportunity
+
+
+Focus on functions / features and UX screen.
